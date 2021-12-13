@@ -1,4 +1,4 @@
-import requests, time, lxml, os
+import requests, time, os
 from bs4 import BeautifulSoup
 from datetime import datetime
 import winsound
